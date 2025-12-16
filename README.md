@@ -1,3 +1,7 @@
+<style>
+ 
+</style>
+
 <h1 align="center">Hi there, I'm Mohammad Nazari 👋</h1>
 
 <p align="center"> 
@@ -7,8 +11,11 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/mohammad-nazari-b8b4b91a2/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+ <a href="https://www.linkedin.com/in/mohammad-nazari-b8b4b91a2/" style="text-decoration: none;" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" alt="linkedin" width="60" height="60" />
+ </a>
+ <a href="mailto:mohammadnazary2000@gmail.com">
+  <img src="https://img.icons8.com/3d-fluency/94/gmail-logo.png" alt="gmail" width="60" height="60" />
  </a>
 </p>
 
