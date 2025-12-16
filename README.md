@@ -1,7 +1,3 @@
-<style>
- 
-</style>
-
 <h1 align="center">Hi there, I'm Mohammad Nazari 👋</h1>
 
 <p align="center"> 
